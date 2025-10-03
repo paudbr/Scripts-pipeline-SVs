@@ -22,8 +22,11 @@ Once organized, simply execute the following command:
 
 ```bash
 ./pipe_SV.sh path/to/directory/0032_0032
+```
+
 > [!IMPORTANT]
 > Do not include the trailing / when specifying the directory path.
+> 
 ## Esquema funcionamiento general ##
 
 ![. Flujo de trabajo de los scripts incorporados para procesar los VCF de cada programa y obtener un único archivo con
