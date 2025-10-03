@@ -58,7 +58,8 @@ Step-by-step overview:
 - All results are combined into a single final file with a specific format (see Supplementary Table 1).
 
 - The final file contains all variants grouped by coordinates, with information on overlaps across callers to create a consensus view.
-Software versions
+
+## Software versions ##
 
 bcftools 1.15
 
